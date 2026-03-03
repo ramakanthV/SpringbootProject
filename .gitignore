@@ -1,0 +1,25 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Directory for instrumented binaries
+target/
+
+# Maven files
+pom.xml
+**/pom.xml
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle files
+.gradle/
+
+# Others
+.DS_Store
+Thumbs.db
